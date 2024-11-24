@@ -38,6 +38,8 @@ This project implements a **Role-Based Access Control (RBAC)** User Interface de
 ```bash
 git clone https://github.com/AanandSurana/vrv_intern.git
 
+vrv_intern
+
 cd api
 
 npm i 
